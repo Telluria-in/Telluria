@@ -58,7 +58,8 @@
     "imageResize": true,
     "uniqCompNum": 64,
     "versionPublish": "5.6.8",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
