@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Telluria Mobirise 5",
+    "name": "Telluria Main",
     "currentPage": "Products.html",
     "theme": {
       "name": "mobirise5",
@@ -59,7 +59,16 @@
     "uniqCompNum": 83,
     "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-DP7M3BY9JL\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-DP7M3BY9JL');\n</script>",
+    "favicon": false,
+    "mbrsiteDomain": "cb5j0rzveu",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
